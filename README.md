@@ -1,4 +1,4 @@
-# Mattermost Desktop
+![Mattermost Desktop](resources/logoIcon.png)
 
 Native desktop application for [Mattermost](http://www.mattermost.org/) running on Windows, Mac and Linux.
 
